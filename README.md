@@ -11,7 +11,7 @@
 |Lv0|**A로 B만들기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|✅|
 |Lv0|**잘라서 배열로 저장하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|✅|
 |Lv0|**로그인 성공?**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|✅|
-|Lv0|**등수 매기기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120882)||
+|Lv0|**등수 매기기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|✅|
 |Lv1|**자연수 뒤집어 배열로 만들기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|✅|
 |Lv1|**핸드번 번호 가리기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|✅|
 |Lv1|**수박수박수박수박수박수?**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|✅|
